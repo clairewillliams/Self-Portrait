@@ -55,7 +55,7 @@ struct ContentView: View {
                     .rotationEffect(.degrees(-25))
             }
             .foregroundColor(Color(red: 219/255, green: 180/255, blue: 44/255))
-            // front of head hair
+            // front of head hair/bangs
             
             
         }
